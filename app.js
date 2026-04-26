@@ -38,9 +38,9 @@ function mountGiscus() {
   script.async = true;
   script.crossOrigin = "anonymous";
   script.setAttribute("data-repo", "spacebuilder13/ingest-architecture-board");
-  script.setAttribute("data-repo-id", "R_kgDOOuBSLw");
-  script.setAttribute("data-category", "Architecture Feedback");
-  script.setAttribute("data-category-id", "DIC_kwDOOuBSL84Cqj9V");
+  script.setAttribute("data-repo-id", "R_kgDOSMxa9Q");
+  script.setAttribute("data-category", "General");
+  script.setAttribute("data-category-id", "DIC_kwDOSMxa9c4C7tVg");
   script.setAttribute("data-mapping", "pathname");
   script.setAttribute("data-strict", "0");
   script.setAttribute("data-reactions-enabled", "1");
